@@ -1,0 +1,1 @@
+This is a simple HTML exercise at the time of writing (07.05.2023.). The website will improve overtime, first with some CSS.
